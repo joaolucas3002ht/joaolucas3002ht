@@ -34,16 +34,16 @@
   <br>
 <div>
   
-  <a href="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" > <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" ></a>
+  <a href="http://instagram.com/joaolucasht?utm_source=qr" > <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" ></a>
   <a href="https://t.me/joaolucas3002"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" ></a>
-  <a href=" mailto:jl22092003@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" ></a>
+  <a href="mailto:jl22092003@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" ></a>
   <a href="https://www.linkedin.com/in/joaolucas3002"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
   </div>
  
   
   <!-- <a href=""><img src="" ></a>-->
 
-  
+ 
   
   
   
