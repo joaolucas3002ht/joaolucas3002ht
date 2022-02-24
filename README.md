@@ -10,7 +10,7 @@
 
 -----
 
-Linguagens e Ferramentas:
+### Linguagens e Ferramentas:
 
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40">
