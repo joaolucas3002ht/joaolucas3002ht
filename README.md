@@ -2,10 +2,11 @@
 
 ### Sobre min 
 
-- 🌱 Estudo Javasript
-- 🤔 Estou procurando ajudar na sites
-- 😄 Pronomes: Ele
-- ⚡ Curiosidade: Louco pro Hunter x Hunter
+- 🌱  Estudo Javasript
+-👯  Estou Procurando ajudar na criação de sites
+- 🥅 metas 2021: Conseguir meu primeiro emprego e aprender o maximo possível
+- 😄  Pronomes: Ele
+- ⚡  Curiosidade: Adoro Jogar
 
 -----
 
@@ -32,14 +33,18 @@ Linguagens e Ferramentas:
 
 ### Contatos:
 
-<div>
-  <a href="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"><img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white ></a>
-  <a href="  "><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" ></a>
-  <a href="  "><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" ></a>
+  <a href="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" > <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" ></a>
+  <a href="https://t.me/joaolucas3002"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" ></a>
+  <a href=" mailto:jl22092003@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" ></a>
   <a href="https://www.linkedin.com/in/joaolucas3002"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a></div>
   
   
   <!-- <a href=""><img src="" ></a>-->
+
+  
+  
+  
+  
   
   
   
