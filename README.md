@@ -2,14 +2,14 @@
 
 ### Sobre min 
 
-- 🌱 estudo Javasript
-- 🤔 Estou procurando ajuda com primeiro emprego
-- 😄 Pronomes: ele
-- ⚡ Curiosidade: louco pro musica
+- 🌱 Estudo Javasript
+- 🤔 Estou procurando ajudar na sites
+- 😄 Pronomes: Ele
+- ⚡ Curiosidade: Louco pro Hunter x Hunter
 
 -----
 
-linguagens e Ferramentas:
+Linguagens e Ferramentas:
 
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40">
@@ -26,11 +26,11 @@ linguagens e Ferramentas:
   <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaolucas3002&layout=compact&langs_count=7&theme=dracula"/>
 </ div >
   
- 
+
   
 -----
 
-### Contatos 
+### Contatos:
 
 <div>
   <a href="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"><img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white ></a>
