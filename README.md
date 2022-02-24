@@ -4,7 +4,7 @@
 
 - 🌱  Estudo Javasript
 -👯  Estou Procurando ajudar na criação de sites
-- 🥅 metas 2021: Conseguir meu primeiro emprego e aprender o maximo possível
+- 🥅 metas 2022: Conseguir meu primeiro emprego e aprender o maximo possível
 - 😄  Pronomes: Ele
 - ⚡  Curiosidade: Adoro Jogar
 
@@ -44,7 +44,6 @@
   <!-- <a href=""><img src="" ></a>-->
 
  
-  
   
   
   
