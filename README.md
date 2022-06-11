@@ -3,8 +3,8 @@
 ### Sobre min 
 
 - 🌱  Estudo Javasript
--👯  Estou Procurando ajudar na criação de sites
-- 🥅 metas 2022: Conseguir meu primeiro emprego e aprender o maximo possível
+- 👯  Estou Procurando ajudar na criação de sites
+- 🥅  Metas 2022: Conseguir meu primeiro emprego e aprender o maximo possível
 - 😄  Pronomes: Ele
 - ⚡  Curiosidade: Adoro Jogar
 
