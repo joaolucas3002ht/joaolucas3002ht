@@ -5,7 +5,7 @@
 - 🌱  Estudo Javasript
 - 👯  Estou Procurando ajudar na criação de sites
 - 🥅  Metas 2022: Conseguir meu primeiro emprego e aprender o maximo possível
-- 😄  Pronomes: Ele
+- 😄  Pronomes: Ele / Dele
 - ⚡  Curiosidade: Adoro Jogar
 
 -----
