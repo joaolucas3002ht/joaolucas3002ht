@@ -2,11 +2,11 @@
 
 ### Sobre min 
 
-- 🌱  Estudo Javasript
+- 🌱  Estudo React, Next.js e tailwindcss 
 - 👯  Estou Procurando ajudar na criação de sites
-- 🥅  Metas 2022: Conseguir meu primeiro emprego e aprender o maximo possível
+<!-- - 🥅  Metas 2022: Conseguir meu primeiro emprego e aprender o maximo possível -->
 - 😄  Pronomes: Ele / Dele
-- ⚡  Curiosidade: Adoro Jogar
+<!-- - ⚡  Curiosidade: Adoro Jogar -->
 
 -----
 
