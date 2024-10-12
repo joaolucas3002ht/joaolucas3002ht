@@ -18,6 +18,7 @@
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" height="40">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/StyledComponents.svg" height="40">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" height="40">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NestJS-Dark.svg" height="40">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" height="40">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" height="40">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Prisma.svg" height="40">
